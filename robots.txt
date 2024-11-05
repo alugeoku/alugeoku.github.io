@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://alugeoku.github.io/KPU/sitemap_index.txt
+Sitemap: https://alugeoku.github.io/MID/sitemap_index.txt
+Sitemap: https://alugeoku.github.io/ajv/sitemap_index.txt
+Sitemap: https://alugeoku.github.io/lon/sitemap_index.txt
